@@ -17,15 +17,15 @@ bclick = True
 flag=0
 
 def disableButton():
-+    button1.configure(state=DISABLED)
-+    button2.configure(state=DISABLED)
-+    button3.configure(state=DISABLED)
-+    button4.configure(state=DISABLED)
-+    button5.configure(state=DISABLED)
-+    button6.configure(state=DISABLED)
-+    button7.configure(state=DISABLED)
-+    button8.configure(state=DISABLED)
-+    button9.configure(state=DISABLED)
+     button1.configure(state=DISABLED)
+     button2.configure(state=DISABLED)
+     button3.configure(state=DISABLED)
+     button4.configure(state=DISABLED)
+     button5.configure(state=DISABLED)
+     button6.configure(state=DISABLED)
+     button7.configure(state=DISABLED)
+     button8.configure(state=DISABLED)
+     button9.configure(state=DISABLED)
     
     
 
