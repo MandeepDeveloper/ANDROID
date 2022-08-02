@@ -1,7 +1,7 @@
-# Logs
-logs
-*.log
-npm-debug.log*
+# android
+android
+*.android
+pdm-login-android*
 
 # Runtime data
 pids
@@ -35,3 +35,12 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Optional or compulsory
+.login
+
+# Dependency
+.mode-0
+
+#git
+.node-man
